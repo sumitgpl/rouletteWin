@@ -1,0 +1,2 @@
+model_checkpoint_path: "winnumber.ckpt"
+all_model_checkpoint_paths: "winnumber.ckpt"
